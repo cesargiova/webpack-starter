@@ -13,6 +13,6 @@ Proyecto carcasa inicial para crear aplicaciones utilizando webpack.
 ```
 git add .
 git commit -m "mensaje..."
-git push origin main
+git push
 
 ```
